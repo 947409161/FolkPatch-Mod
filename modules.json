@@ -2,19 +2,19 @@
   {
     "name": "Zygisk Next",
     "version": "1.3.1",
-    "url": "https://github.com/matsuzaka-yuki/FoldPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
     "description": "一个优秀的Zygisk基底模块,适配多种ROOT方案."
   },
   {
     "name": "Neo Zygisk",
     "version": "2.2",
-    "url": "https://github.com/matsuzaka-yuki/FoldPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/NeoZygisk-v2.2-269-b0ed8f5-release.zip",
     "description": "一个轻量化的Zygisk基底模块,适配多种ROOT方案."
   },
   {
     "name": "LSPosed",
     "version": "1.9.2-lrena-去日志版",
-    "url": "https://github.com/matsuzaka-yuki/FoldPatch-Mod/releases/download/zygisk/LSPosed-v1.9.2-7280-Irena-.zip",
+    "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/zygisk/LSPosed-v1.9.2-7280-Irena-.zip",
     "description": "基于Zygisk的Xposed Hook管理器,轻松使用各种XP模块"
   }
 ]
