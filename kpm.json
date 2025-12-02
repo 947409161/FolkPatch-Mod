@@ -18,7 +18,7 @@
     "description": "Avc伪装,在安卓16上不需要使用"
   },
   {
-    "name": "NoMagisk_",
+    "name": "NoMagisk",
     "version": "v2.0",
     "url": "https://github.com/matsuzaka-yuki/FolkPatch-Mod/releases/download/kpm/NoMagisk_v2.0.kpm",
     "description": "一个隐藏挂载的kpm，它接管APatch的排除功能，可以使得挂载模块完美像原生一样。”"
