@@ -82,5 +82,17 @@
     "version": "v1321", 
     "url": "https://github.com/suifengershi9/funbox-zygisk-/releases/download/funbox-zygisk/FunBox_v1321.zip",
     "description": "QQ/微信/TIM表情包模块,支持在QQ/微信/TIM中使用表情面板和语音面板以保存和发送表情和语音，点击action按钮可以管理作用域 需要zygisk环境才能加载,请确保你安装并启用了zygisk"
+  },
+    {
+    "name":"TrickyStore",
+    "version":"1.4.1",
+    "url":"https://github.com/5ec1cff/TrickyStore/releases/download/1.4.1/Tricky-Store-v1.4.1-245-72b2e84-release.zip",
+    "description":"此模块用于修改为安卓密钥认证生成的证书链"
+  },
+  {
+    "name":"Tricky-Addon-Update-Target-List",
+    "version":"4.3",
+    "url":"https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases/download/v4.3/TrickyAddonModule-v4.3.zip",
+    "description":"是一个基于 KSU WebUI 的工具模块，用于方便地配置 Tricky Store 的 target.txt 文件，支持图形化界面操作和多种安全相关功能"
   }
 ]
